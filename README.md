@@ -1,1 +1,1 @@
-# IC---cobina-o-para-achar-pontos-de-esquinas
+# IC-cobinações para achar pontos de esquinas
